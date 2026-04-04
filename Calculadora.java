@@ -14,7 +14,8 @@ public class Calculadora {
         }
     }
 
-    // Método principal para testar
+    // Ponto de entrada da aplicação Calculadora
+    // Método principal para testar a calculadora
     public static void main(String[] args) {
         Calculadora calc = new Calculadora();
 
